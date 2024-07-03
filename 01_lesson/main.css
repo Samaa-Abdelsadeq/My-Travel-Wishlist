@@ -1,0 +1,19 @@
+html{
+    font: 1em sans-serif;
+}
+
+
+table, tr, td,th, caption{
+    border: 2px solid #120a7e;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+tfoot{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+aside{
+    padding-left: 0px;
+    
+}
